@@ -1,0 +1,23 @@
+2025-07-15 19:30:40,497 - Key pressed: t
+2025-07-15 19:30:40,720 - Key pressed: e
+2025-07-15 19:30:40,984 - Key pressed: s
+2025-07-15 19:30:41,152 - Key pressed: t
+2025-07-15 19:30:41,752 - Key pressed: i
+2025-07-15 19:30:41,984 - Key pressed: n
+2025-07-15 19:30:42,256 - Key pressed: g
+2025-07-15 19:30:42,952 - Special key pressed: Key.enter
+2025-07-15 19:30:46,160 - Special key pressed: Key.cmd
+2025-07-15 19:30:46,600 - Special key pressed: Key.shift
+2025-07-15 19:30:47,032 - Key pressed: S
+2025-07-15 19:30:53,984 - Special key pressed: Key.shift
+2025-07-15 19:30:54,760 - Special key pressed: Key.space
+2025-07-15 19:30:54,920 - Special key pressed: Key.space
+2025-07-15 19:30:55,096 - Special key pressed: Key.space
+2025-07-15 19:30:55,264 - Special key pressed: Key.shift
+2025-07-15 19:30:55,592 - Key pressed: H
+2025-07-15 19:30:56,368 - Key pressed: e
+2025-07-15 19:30:56,576 - Key pressed: l
+2025-07-15 19:30:57,040 - Key pressed: l
+2025-07-15 19:30:57,240 - Key pressed: o
+2025-07-15 19:30:58,744 - Special key pressed: Key.enter
+2025-07-15 19:31:04,992 - Special key pressed: Key.esc
